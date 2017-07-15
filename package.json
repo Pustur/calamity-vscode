@@ -1,0 +1,22 @@
+{
+    "name": "calamity-vscode",
+    "displayName": "Calamity VSCode",
+    "description": "A purple dark theme with medium to high contrast",
+    "version": "0.0.1",
+    "publisher": "Loris",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calamity",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calamity-color-theme.json"
+            }
+        ]
+    }
+}
