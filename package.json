@@ -2,9 +2,12 @@
     "name": "calamity-vscode",
     "displayName": "Calamity",
     "description": "A purple dark theme with medium to high contrast",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/logo.png",
-    "galleryBanner.color": "#2F2833",
+    "galleryBanner": {
+        "color": "#2F2833",
+        "theme": "dark"
+    },
     "publisher": "Pustur",
     "author": {
         "name": "Loris Bettazza",
