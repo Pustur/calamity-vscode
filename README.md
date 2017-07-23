@@ -1,13 +1,36 @@
-# README
-## This is the README for your extension "calamity-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# [Calamity Theme for VSCode](https://marketplace.visualstudio.com/items?itemName=pustur.calamity-vscode)
+> A purple dark theme with medium to high contrast for [Visual Studio Code](https://code.visualstudio.com)
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+![calamity-logotype](images/logotype.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![calamity-screenshot](images/screenshot.png)
 
-**Enjoy!**
+## Supported languages
+
+- JavaScript
+- CSS
+  - SCSS
+  - Sass
+  - Less
+- PHP
+- SQL
+- Pug / Jade
+- Python
+- HTML / XML
+- Markdown
+- JSON
+- YAML
+
+## Supported editors
+
+Also available for:
+
+- [Atom](https://atom.io/themes/calamity-syntax)
+
+## Contributing
+
+If you want more languages a PR is always welcome! 🙂
+
+## License
+
+[MIT](https://github.com/Pustur/calamity-vscode/blob/master/LICENSE.md)

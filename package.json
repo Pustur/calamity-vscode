@@ -1,9 +1,19 @@
 {
     "name": "calamity-vscode",
-    "displayName": "Calamity VSCode",
+    "displayName": "Calamity",
     "description": "A purple dark theme with medium to high contrast",
-    "version": "0.0.1",
-    "publisher": "Loris",
+    "version": "1.0.0",
+    "icon": "images/logo.png",
+    "galleryBanner.color": "#2F2833",
+    "publisher": "Pustur",
+    "author": {
+        "name": "Loris Bettazza",
+        "url": "https://github.com/Pustur",
+        "email": "loris.bettazza@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/Pustur/calamity-vscode"
+    },
     "engines": {
         "vscode": "^1.14.0"
     },
