@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.0] - 2017-08-11
+### Changed
+- Improved search and line highlight colors
+
+### Fixed
+- Empty colors showed up as red
+
 ## [1.0.1] - 2017-07-23
 ### Fixed
 - Gallery banner color in the marketplace page
