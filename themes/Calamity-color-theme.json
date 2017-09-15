@@ -298,7 +298,7 @@
             "scope": [
                 "string",
                 "text.html.php string",
-                "markup.inline.raw.markdown",
+                "markup.inline.raw",
                 "punctuation.definition.string",
                 "punctuation.definition.markdown",
                 "text.html meta.embedded source.js string",
