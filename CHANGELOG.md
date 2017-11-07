@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.2] - 2017-11-07
+### Added
+- Updated README and mention the existence of the theme for Sublime Text and iTerm2
+
 ## [1.1.1] - 2017-08-11
 ### Fixed
 - Backticks strings in markdown weren't colored

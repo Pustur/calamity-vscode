@@ -21,11 +21,13 @@
 - JSON
 - YAML
 
-## Supported editors
+## Supported applications
 
 Also available for:
 
 - [Atom](https://atom.io/themes/calamity-syntax)
+- [Sublime Text](https://github.com/Pustur/calamity-sublime)
+- [iTerm2](https://github.com/mbadolato/iTerm2-Color-Schemes#calamity)
 
 ## Contributing
 
