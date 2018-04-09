@@ -120,12 +120,6 @@
 
         "titleBar.activeBackground": "#2A242D",
 
-        "notification.background": "#423848",
-        "notification.buttonBackground": "#C668BA",
-        "notification.buttonHoverBackground": "#CA7CBF",
-        "notification.infoBackground": "#3B79C7",
-        "notification.warningBackground": "#FF9F2E",
-        "notification.errorBackground": "#FC644D",
 
         "extensionButton.prominentBackground": "#C668BA",
         "extensionButton.prominentHoverBackground": "#CA7CBF",
@@ -141,7 +135,6 @@
         {
             "settings": {
                 "foreground": "#D5CED9",
-                "background": "#2F2833"
             }
         },
         {
