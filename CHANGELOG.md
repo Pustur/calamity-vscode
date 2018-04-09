@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.2.0] - 2018-04-09
+### Added
+- New git status colors
+- Active tab border
+- Scrollbar indicators for modified/added/removed code
+
+### Changed
+- Lighter active line number
+- Lighter notifications background
+
+### Removed
+- Deprecated properties
+
 ## [1.1.2] - 2017-11-07
 ### Added
 - Updated README and mention the existence of the theme for Sublime Text and iTerm2

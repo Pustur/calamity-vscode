@@ -35,4 +35,4 @@ If you want more languages a PR is always welcome! 🙂
 
 ## License
 
-[MIT](https://github.com/Pustur/calamity-vscode/blob/master/LICENSE.md)
+[MIT](LICENSE.md)
