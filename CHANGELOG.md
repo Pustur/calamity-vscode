@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.1] - 2018-04-09
+### Fixed
+- Invalid JSON
+
 ## [1.2.0] - 2018-04-09
 ### Added
 - New git status colors
