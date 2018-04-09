@@ -120,6 +120,7 @@
 
         "titleBar.activeBackground": "#2A242D",
 
+        "notifications.background": "#423848",
 
         "extensionButton.prominentBackground": "#C668BA",
         "extensionButton.prominentHoverBackground": "#CA7CBF",
@@ -129,7 +130,24 @@
 
         "debugToolBar.background": "#372F3C",
 
-        "walkThrough.embeddedEditorBackground": "#2A242D"
+        "walkThrough.embeddedEditorBackground": "#2A242D",
+
+        "editorHint.foreground": "#74d3de",
+
+        "editorLineNumber.activeForeground": "#D5CED9",
+
+        "gitDecoration.modifiedResourceForeground": "#3B79C7",
+        "gitDecoration.deletedResourceForeground": "#FC644D",
+        "gitDecoration.untrackedResourceForeground": "#a5f69c",
+        "gitDecoration.ignoredResourceForeground": "#64566B",
+        "gitDecoration.conflictingResourceForeground": "#ff9f2e",
+
+        "tab.activeBorder": "#C668BA",
+        "tab.unfocusedActiveBorder": "#C668BA00",
+
+        "editorOverviewRuler.modifiedForeground": "#3B79C7BB",
+        "editorOverviewRuler.addedForeground": "#45C758BB",
+        "editorOverviewRuler.deletedForeground": "#FC644DBB",
     },
     "tokenColors": [
         {
