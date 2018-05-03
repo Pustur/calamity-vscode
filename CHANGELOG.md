@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.2] - 2018-05-03
+### Added
+- Active indent guide color
+
 ## [1.2.1] - 2018-04-09
 ### Fixed
 - Invalid JSON
