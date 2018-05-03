@@ -69,6 +69,7 @@
         "editor.rangeHighlightBackground": "#372F3C",
         "editorWhitespace.foreground": "#3F3544",
         "editorIndentGuide.background": "#3F3544",
+        "editorIndentGuide.activeBackground": "#4F4355",
         "editorRuler.foreground": "#4F4355",
         "editorCodeLens.foreground": "#7E6C88",
         "editorBracketMatch.background": "#7E6C88",
