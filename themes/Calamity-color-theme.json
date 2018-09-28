@@ -147,7 +147,11 @@
 
         "editorOverviewRuler.modifiedForeground": "#3B79C7BB",
         "editorOverviewRuler.addedForeground": "#45C758BB",
-        "editorOverviewRuler.deletedForeground": "#FC644DBB"
+        "editorOverviewRuler.deletedForeground": "#FC644DBB",
+
+        "settings.modifiedItemIndicator": "#3B79C7BB",
+        "settings.dropdownBackground": "#3F3544",
+        "settings.checkboxBackground": "#3F3544"
     },
     "tokenColors": [
         {
