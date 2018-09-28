@@ -20,6 +20,7 @@
 - Markdown
 - JSON
 - YAML
+- Go
 
 ## Supported applications
 
