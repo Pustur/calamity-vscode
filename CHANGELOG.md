@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.2.3] - 2018-09-28
+### Changed
+- Some colors in the settings UI
+
+### Fixed
+- Id attributes in HTML weren't colored correctly  
+  (maybe due to an unnoticed change in the TM scope?)
+
+### Removed
+- Deprecated properties
+
 ## [1.2.2] - 2018-05-03
 ### Added
 - Active indent guide color
