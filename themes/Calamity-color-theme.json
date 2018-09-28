@@ -298,7 +298,7 @@
                 "source.css support.function",
                 "source.php support.function",
                 "support.function.magic.python",
-                "entity.other.attribute-name.id"
+                "meta.attribute.id entity.other.attribute-name"
             ],
             "settings": {
                 "foreground": "#74d3de"
