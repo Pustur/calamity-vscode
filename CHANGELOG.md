@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.4] - 2019-05-26
+### Added
+- New colors in vscode@1.28.0 and vscode@1.31.0
+
 ## [1.2.3] - 2018-09-28
 ### Changed
 - Some colors in the settings UI
