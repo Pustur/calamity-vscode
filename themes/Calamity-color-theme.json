@@ -16,10 +16,13 @@
         "input.background": "#3F3544",
         "input.placeholderForeground": "#7E6C88",
         "inputOption.activeBorder": "#C668BA",
+        "inputValidation.errorForeground": "#FFF",
         "inputValidation.errorBackground": "#D65343",
         "inputValidation.errorBorder": "#D65343",
+        "inputValidation.infoForeground": "#FFF",
         "inputValidation.infoBackground": "#3A6395",
         "inputValidation.infoBorder": "#3A6395",
+        "inputValidation.warningForeground": "#FFF",
         "inputValidation.warningBackground": "#DE9237",
         "inputValidation.warningBorder": "#DE9237",
 
@@ -41,6 +44,7 @@
         "activityBar.background": "#2F2833",
         "activityBar.dropBackground": "#C668BA80",
         "activityBar.foreground": "#BAAFC0",
+        "activityBar.inactiveForeground": "#7E6C88",
         "activityBarBadge.background": "#FC644D",
 
         "sideBar.background": "#2A242D",
