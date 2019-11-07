@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.5] - 2019-11-07
+### Added
+- Added active border color to activity bar
+
 ## [1.2.4] - 2019-05-26
 ### Added
 - New colors in vscode@1.28.0 and vscode@1.31.0
