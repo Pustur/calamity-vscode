@@ -44,6 +44,7 @@
         "listFilterWidget.background": "#C668BA",
         "listFilterWidget.noMatchesOutline": "#F00",
 
+        "activityBar.activeBorder": "#C668BA",
         "activityBar.background": "#2F2833",
         "activityBar.dropBackground": "#C668BA80",
         "activityBar.foreground": "#BAAFC0",
