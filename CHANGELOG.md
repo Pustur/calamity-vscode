@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.2.6] - 2020-08-28
+### Added
+- Debug icons foreground colors
+
+### Removed
+- Deprecated properties
+
 ## [1.2.5] - 2019-11-07
 ### Added
 - Added active border color to activity bar
