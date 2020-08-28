@@ -11,6 +11,18 @@
         "button.background": "#C668BA",
         "button.hoverBackground": "#CA7CBF",
 
+        "debugIcon.startForeground": "#a5f69c",
+        "debugIcon.continueForeground": "#a5f69c",
+        "debugIcon.disconnectForeground": "#FC644D",
+        "debugIcon.pauseForeground": "#FC644D",
+        "debugIcon.restartForeground": "#ff9f2e",
+        "debugIcon.stepBackForeground": "#74d3de",
+        "debugIcon.stepIntoForeground": "#74d3de",
+        "debugIcon.stepOutForeground": "#74d3de",
+        "debugIcon.stepOverForeground": "#74d3de",
+        "debugIcon.stopForeground": "#FC644D",
+        "debugIcon.breakpointForeground": "#FC644D",
+
         "dropdown.background": "#372F3C",
 
         "input.background": "#3F3544",
