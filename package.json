@@ -2,7 +2,7 @@
     "name": "calamity-vscode",
     "displayName": "Calamity",
     "description": "A purple dark theme with medium to high contrast",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "icon": "images/logo.png",
     "galleryBanner": {
         "color": "#2F2833",

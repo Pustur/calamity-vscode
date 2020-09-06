@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.7] - 2020-09-07
+### Added
+- Changelog link in readme
+- Release links in changelog 
+- Funding links
+
+### Removed
+- Wrong entry in `tokenColors`
+
 ## [1.2.6] - 2020-08-28
 ### Added
 - Debug icons foreground colors
@@ -69,6 +78,7 @@
 ## [1.0.0] - 2017-07-23
 - Initial release
 
+[1.2.7]: https://github.com/Pustur/calamity-vscode/compare/1.2.6...1.2.7
 [1.2.6]: https://github.com/Pustur/calamity-vscode/compare/1.2.5...1.2.6
 [1.2.5]: https://github.com/Pustur/calamity-vscode/compare/1.2.4...1.2.5
 [1.2.4]: https://github.com/Pustur/calamity-vscode/compare/1.2.3...1.2.4
