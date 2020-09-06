@@ -174,11 +174,6 @@
     },
     "tokenColors": [
         {
-            "settings": {
-                "foreground": "#D5CED9"
-            }
-        },
-        {
             "name": "Comment color",
             "scope": [
                 "comment",
