@@ -34,6 +34,10 @@ Also available for:
 
 If you want more languages a PR is always welcome! 🙂
 
+## Changelog
+
+[CHANGELOG](CHANGELOG.md)
+
 ## License
 
 [MIT](LICENSE.md)
