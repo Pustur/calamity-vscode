@@ -1,4 +1,5 @@
 # [Calamity Theme for VSCode](https://marketplace.visualstudio.com/items?itemName=pustur.calamity-vscode)
+
 > A purple dark theme with medium to high contrast for [Visual Studio Code](https://code.visualstudio.com)
 
 ![calamity-logotype](images/logotype.png)
