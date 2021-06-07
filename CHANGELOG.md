@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.8] - 2021-06-07
+
+### Added
+
+- Ignored files in `.vscodeignore` (less stuff to download)
+
+### Changed
+
+- Formatting and cleanup of files
+
 ## [1.2.7] - 2020-09-07
 
 ### Added
@@ -110,6 +120,7 @@
 
 - Initial release
 
+[1.2.8]: https://github.com/Pustur/calamity-vscode/compare/1.2.7...1.2.8
 [1.2.7]: https://github.com/Pustur/calamity-vscode/compare/1.2.6...1.2.7
 [1.2.6]: https://github.com/Pustur/calamity-vscode/compare/1.2.5...1.2.6
 [1.2.5]: https://github.com/Pustur/calamity-vscode/compare/1.2.4...1.2.5
