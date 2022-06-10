@@ -2,7 +2,7 @@
   "name": "calamity-vscode",
   "displayName": "Calamity",
   "description": "A purple dark theme with medium to high contrast",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "icon": "images/logo.png",
   "license": "MIT",
   "sponsor": {
