@@ -5,6 +5,9 @@
   "version": "1.2.8",
   "icon": "images/logo.png",
   "license": "MIT",
+  "sponsor": {
+    "url": "https://buymeacoffee.com/Pustur"
+  },
   "galleryBanner": {
     "color": "#2F2833",
     "theme": "dark"
