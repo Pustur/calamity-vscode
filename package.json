@@ -4,6 +4,7 @@
   "description": "A purple dark theme with medium to high contrast",
   "version": "1.2.8",
   "icon": "images/logo.png",
+  "license": "MIT",
   "galleryBanner": {
     "color": "#2F2833",
     "theme": "dark"

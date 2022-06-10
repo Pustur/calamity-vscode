@@ -41,4 +41,4 @@ If you want more languages a PR is always welcome! 🙂
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
